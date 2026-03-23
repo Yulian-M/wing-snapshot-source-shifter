@@ -1,6 +1,3 @@
-# wing-snapshot-sources-shifter
-Tool for moving Soruces within Source Groups in SNAP files from Behringer Wing
-
 Wing Source Shifter — це зручна десктопна утиліта для візуального керування джерелами (Sources) у файлах снепшотів (.snap) цифрового мікшера Behringer WING.
 
 Програма дозволяє швидко змінювати порядок джерел, перейменовувати їх та змінювати кольори за допомогою інтуїтивно зрозумілої матриці, автоматично оновлюючи маршрутизацію каналів.
